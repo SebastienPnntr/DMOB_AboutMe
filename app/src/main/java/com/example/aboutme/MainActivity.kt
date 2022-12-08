@@ -1,3 +1,4 @@
+// Developpeur: Sebastien Pannatier
 package com.example.aboutme
 
 import android.content.Context
